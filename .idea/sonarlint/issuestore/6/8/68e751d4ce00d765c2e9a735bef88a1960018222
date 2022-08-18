@@ -1,0 +1,14 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ÚØ¦úÿÿÿÿ8€âà…«0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿«ˆë
+S	java:S106"9Replace this use of System.out or System.err by a logger.(óÐÚ¾ýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õ¿ß…
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷ØôÁøÿÿÿÿ
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ï¨‚Œýÿÿÿÿ8‹âà…«0
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Ï÷¡Ìøÿÿÿÿ8‹âà…«0
+Y
+java:S1128"<Remove this unused import 'pl.Alski.aopdemo.dao.AccountDAO'.(Ñ€‰Â8Œâà…«0
+M
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Œâà…«0

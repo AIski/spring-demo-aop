@@ -9,7 +9,8 @@ public class Main {
     public static void main(String[] args) {
 
         //read spring config java class
-        AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(DemoConfig.class);
+        AnnotationConfigApplicationContext context =
+                new AnnotationConfigApplicationContext(DemoConfig.class);
 
         //get the bean from spring container
         AccountDAO theAccountDAO = context.getBean("accountDAO", AccountDAO.class);
@@ -22,6 +23,13 @@ public class Main {
         //call the membership business method
 
         theMembershipDAO.addAccount();
+
+        //call the account getter/setter methods
+        theAccountDAO.setName("foobar");
+        theAccountDAO.setServiceCode("silver");
+
+        theAccountDAO.getServiceCode();
+        theAccountDAO.getName();
 
         Account myAccount=new Account();
 

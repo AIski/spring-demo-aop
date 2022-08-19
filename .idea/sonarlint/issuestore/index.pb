@@ -21,9 +21,13 @@ Q
 !src/pl/Alski/aopdemo/Account.java,4\1\415026fb0fd5f11c3a1b89f64c2477f7178a7892
 Z
 *src/pl/Alski/aopdemo/AfterFinallyMain.java,c\f\cf25d591c6eafc7025bb0ced7bf2a7a7e48cd732
-g
-7src/pl/Alski/aopdemo/service/TrafficFortuneService.java,d\3\d37c4f92ea9d231e3f638494bea0bfd2f26d86b6
-`
-0src/pl/Alski/aopdemo/aspect/MyLoggingAspect.java,e\0\e0a2e640ab55ce2f88dd5836e32f96303e875bf8
 T
 $src/pl/Alski/aopdemo/AroundMain.java,6\8\68e751d4ce00d765c2e9a735bef88a1960018222
+]
+-src/pl/Alski/aopdemo/AroundWthLoggerMain.java,6\a\6a63f60a8e62573d3d80c499e381ed86525a0de6
+`
+0src/pl/Alski/aopdemo/aspect/MyLoggingAspect.java,e\0\e0a2e640ab55ce2f88dd5836e32f96303e875bf8
+g
+7src/pl/Alski/aopdemo/service/TrafficFortuneService.java,d\3\d37c4f92ea9d231e3f638494bea0bfd2f26d86b6
+c
+3src/pl/Alski/aopdemo/AroundHandleExceptionMain.java,5\f\5f4a051c0353af97bafe096d3b7cc89e938a9ae6
